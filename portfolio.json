@@ -4,7 +4,7 @@
     {
       "name": "OpenGPT",
       "description": "Open Source ChatGPT alternative built with AI SDK and AI Elements.",
-      "link": "https://opengpt-thaletto.vercel.app",
+      "link": "https://thalettoAI.vercel.app",
       "image": "/projects/opengpt.webp",
       "tags": ["AI SDK", "AI Agents", "Tools", "Next.js"],
       "id": "PROJ5",
@@ -127,6 +127,7 @@
     }
   ]
 }
+
 
 
 
