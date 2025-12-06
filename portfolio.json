@@ -13,7 +13,7 @@
     {
       "name": "KR Crackers",
       "description": "E-Commerce website with a custom CMS for managing products, orders, and customers made for a client.",
-      "link": "https://krcrackers.co",
+      "link": "https://kr-crackers.vercel.app",
       "image": "/projects/krcrackers.webp",
       "tags": ["Next.js", "SSR", "PostgreSQL"],
       "id": "PROJ4",
@@ -127,6 +127,7 @@
     }
   ]
 }
+
 
 
 
