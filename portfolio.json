@@ -11,8 +11,8 @@
       "date": "2025-08"
     },
     {
-      "name": "E-Commerce website & CMS",
-      "description": "E-Commerce website with a custom CMS for managing products, orders, and customers for a client.",
+      "name": "KR Crackers",
+      "description": "E-Commerce website with a custom CMS for managing products, orders, and customers made for a client.",
       "link": "https://krcrackers.co",
       "image": "/projects/krcrackers.webp",
       "tags": ["Next.js", "SSR", "PostgreSQL"],
@@ -127,6 +127,7 @@
     }
   ]
 }
+
 
 
 
