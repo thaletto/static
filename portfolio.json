@@ -4,16 +4,16 @@
     {
       "name": "OpenGPT",
       "description": "Open Source ChatGPT alternative built with AI SDK and AI Elements.",
-      "link": "https://opengpt-thaletto.vercel.app",
+      "link": "https://thalettoAI.vercel.app",
       "image": "/projects/opengpt.webp",
       "tags": ["AI SDK", "AI Agents", "Tools", "Next.js"],
       "id": "PROJ5",
       "date": "2025-08"
     },
     {
-      "name": "E-Commerce website & CMS",
-      "description": "E-Commerce website with a custom CMS for managing products, orders, and customers for a client.",
-      "link": "https://krcrackers.co",
+      "name": "KR Crackers",
+      "description": "E-Commerce website with a custom CMS for managing products, orders, and customers made for a client.",
+      "link": "https://kr-crackers.vercel.app",
       "image": "/projects/krcrackers.webp",
       "tags": ["Next.js", "SSR", "PostgreSQL"],
       "id": "PROJ4",
@@ -127,6 +127,9 @@
     }
   ]
 }
+
+
+
 
 
 
